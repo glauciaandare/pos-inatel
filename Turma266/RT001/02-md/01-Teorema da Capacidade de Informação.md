@@ -1,0 +1,39 @@
+### Teorema da Capacidade de Informação
+
+O Teorema da Capacidade de Informação, ou Teorema de Shannon-Hartley, é fundamental na teoria da informação e estabelece a taxa máxima à qual a informação pode ser transmitida por um canal de comunicação de forma confiável, ou seja, sem erro. Este teorema é expresso pela fórmula:
+
+
+> C = B \ log_2(1 + S/N ) 
+
+Onde:
+- \( C \) é a capacidade do canal em bits por segundo (bps).
+- \( B \) é a largura de banda do canal em hertz (Hz).
+- \( S \) é a potência média do sinal transmitido.
+- \( N \) é a potência média do ruído no canal.
+- \(\frac{S}{N}\) é a relação sinal-ruído (RSR), ou SNR em inglês (Signal-to-Noise Ratio).
+
+### Termos Chave
+
+**BW (Bandwidth - Largura de Banda):**
+- A largura de banda (BW) de um canal de comunicação é a faixa de frequências que ele pode transmitir sem atenuação significativa. É medida em hertz (Hz).
+- A largura de banda determina a quantidade de dados que podem ser transmitidos por unidade de tempo. Quanto maior a largura de banda, maior a capacidade do canal para transmitir dados.
+
+**RSR (Relação Sinal-Ruído):**
+- A relação sinal-ruído (RSR) é a relação entre a potência do sinal transmitido (\( S \)) e a potência do ruído (\( N \)). É uma medida da qualidade do sinal em um canal de comunicação.
+- A RSR é geralmente expressa em decibéis (dB) e é dada pela fórmula:
+
+  \[ \text{RSR (dB)} = 10 \log_{10} \left( \frac{S}{N} \right) \]
+
+- Uma RSR mais alta indica um sinal mais forte em comparação com o ruído, resultando em uma comunicação mais clara e menos propensa a erros.
+
+### Compromisso entre BW e RSR
+
+- O teorema de Shannon-Hartley mostra que a capacidade de um canal de comunicação é proporcional à largura de banda do canal (\( B \)) e à logaritmo da relação sinal-ruído (\( \frac{S}{N} \)).
+- Aumentar a largura de banda (\( B \)) permite transmitir mais dados por unidade de tempo, mas também pode aumentar a complexidade do sistema e a suscetibilidade ao ruído.
+- Melhorar a relação sinal-ruído (\( \frac{S}{N} \)) pode aumentar a capacidade do canal sem aumentar a largura de banda, mas requer uma maior potência do sinal ou técnicas avançadas de processamento de sinal para reduzir o ruído.
+
+### Importância na Engenharia de Telecomunicações
+
+Compreender o compromisso entre a largura de banda e a relação sinal-ruído é crucial para projetar sistemas de comunicação eficientes. Os engenheiros devem equilibrar esses dois fatores para otimizar a capacidade do canal, garantir a qualidade da transmissão e minimizar os custos e a complexidade do sistema.
+
+Este entendimento é essencial para o desenvolvimento de tecnologias de comunicação, como redes de telecomunicações, sistemas de transmissão de dados, redes sem fio e outros sistemas de comunicação digital.
