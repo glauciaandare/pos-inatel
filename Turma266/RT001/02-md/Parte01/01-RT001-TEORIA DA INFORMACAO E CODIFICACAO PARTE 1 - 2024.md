@@ -34,3 +34,15 @@ A codificação de canal é uma técnica usada para proteger a informação cont
 - **Codificação de Canal**: Crucial para melhorar a confiabilidade dos sistemas de comunicação, reduzindo a necessidade de retransmissões e aumentando a eficiência da transmissão de dados.
 
 Esses conceitos são fundamentais para o design e análise de sistemas de comunicação modernos, incluindo redes de computadores, telecomunicações, e armazenamento de dados.
+
+---
+### Mapa Mental 
+
+- Teoria da Informação.
+
+![alt text](image.png)
+
+- Codificação de Canal
+
+
+
