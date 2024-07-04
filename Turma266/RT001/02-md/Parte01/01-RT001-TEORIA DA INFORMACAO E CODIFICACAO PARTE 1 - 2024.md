@@ -38,6 +38,10 @@ Esses conceitos são fundamentais para o design e análise de sistemas de comuni
 ---
 ### Mapa Mental 
 
+- Teoria da Informação aplicada a matemática e engenharia
+
+![alt text](<teoria da infromação aplocada a matematica e engenharia.png>)
+
 - Teoria da Informação.
 
 ![alt text](image.png)
