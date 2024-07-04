@@ -3,7 +3,7 @@
 
 Localização - Prédio 06 (ao lado da portaria principal)
 
-[![](/Turma266/RT001/03-images/mapa-inatel_pb.jpg)](/)
+[![](/Turma266/RT001/02-images/mapa-inatel_pb.jpg)](/)
 
 
 
